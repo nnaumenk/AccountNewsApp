@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string></string>
+	<key>CLIENT_ID</key>
+	<string>25127408522-kdt0toq2fpt22pjca9g5ghd77v39l9jr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.25127408522-kdt0toq2fpt22pjca9g5ghd77v39l9jr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDrgwcTHHnt4Vl_FoOrsAc-54FXDz95NkI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>25127408522</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>UNIT.NewsApp</string>
+	<key>PROJECT_ID</key>
+	<string>newsapp-54fa9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>newsapp-54fa9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:25127408522:ios:13a7fc1a0400e485</string>
+	<key>DATABASE_URL</key>
+	<string>https://newsapp-54fa9.firebaseio.com</string>
+</dict>
+</plist>
