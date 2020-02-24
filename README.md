@@ -5,9 +5,10 @@
 
 **Using newsapi.org for news.**
 
-**Using apixu.com for weather**
+**Using apixu.com for weather.**
 
 **Application should remember user. If you close the application and open it you will not have to re-sign in.**
+
 
 ●	**Account registration(sign in / sign up)**
 
