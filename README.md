@@ -16,22 +16,15 @@
 
 -	**Navigation(left menu with these rows):**
 	- News
-	
 	- News sources
-	
 	- Weather
-	
 	- Profile
-	
 	- Logout
 
 -	**News ( main view ):**
 	- Showing news headlines according to selected news sources with endless scrolling
-	
 	- Pull to refresh
-	
 	- When clicking the news headline - transition to detailed view with full news text and image
-	
 	- In detailed view ability to return to news headline list or show next / previous news
 
 -	**News sources:** 
