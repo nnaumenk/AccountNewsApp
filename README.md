@@ -7,7 +7,9 @@ Using newsapi.org for news.
 Using apixu.com for weather
 
 ●	Account registration(sign in / sign up)
+
 ●	First setup(first name, last name, mobile number, date of birth)
+
 ●	Navigation(left menu with these rows)
 	- News
 	- News sources
@@ -16,8 +18,8 @@ Using apixu.com for weather
 	- Logout
 
 ●	News ( main view ):
--	Showing news headlines according to selected news sources with endless scrolling
--	Pull to refresh
+- Showing news headlines according to selected news sources with endless scrolling
+- Pull to refresh
 - When clicking the news headline - transition to detailed view with full news text and image
 - In detailed view ability to return to news headline list or show next / previous news
 
